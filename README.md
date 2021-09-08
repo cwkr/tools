@@ -14,7 +14,7 @@
 
 ## Maven
 
-- [apache-maven-3.8.1-bin.zip](https://downloads.apache.org/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.zip)
+- [apache-maven-3.8.2-bin.zip](https://downloads.apache.org/maven/maven-3/3.8.1/binaries/apache-maven-3.8.2-bin.zip)
 
 ## OpenJDK
 
