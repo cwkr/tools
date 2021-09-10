@@ -2,11 +2,11 @@
 
 ## Golang SDK
 
-- [go1.16.7.windows-amd64.msi](https://golang.org/dl/go1.16.7.windows-amd64.msi)
+- [go1.16.8.windows-amd64.msi](https://golang.org/dl/go1.16.8.windows-amd64.msi)
 
 ## Groovy SDK
 
-- [apache-groovy-sdk-3.0.8.zip](https://groovy.jfrog.io/artifactory/dist-release-local/groovy-zips/apache-groovy-sdk-3.0.8.zip)
+- [apache-groovy-sdk-3.0.9.zip](https://groovy.jfrog.io/artifactory/dist-release-local/groovy-zips/apache-groovy-sdk-3.0.9.zip)
 
 ## Helm
 
