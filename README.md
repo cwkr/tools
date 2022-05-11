@@ -2,7 +2,7 @@
 
 ## Golang SDK
 
-- [go1.17.8.windows-amd64.msi](https://go.dev/dl/go1.17.8.windows-amd64.msi)
+- [go1.18.2.windows-arm64.msi](https://go.dev/dl/go1.18.2.windows-arm64.msi)
 
 ## Groovy SDK
 
@@ -18,4 +18,4 @@
 
 ## OpenJDK
 
-- [microsoft-jdk-11.0.14.9.1-windows-x64.msi](https://aka.ms/download-jdk/microsoft-jdk-11.0.14.9.1-windows-x64.msi)
+- [microsoft-jdk-11.0.15-windows-x64.msi](https://aka.ms/download-jdk/microsoft-jdk-11.0.15-windows-x64.msi)
