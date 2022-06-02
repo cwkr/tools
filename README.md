@@ -2,7 +2,7 @@
 
 ## Golang SDK
 
-- [go1.18.2.windows-arm64.msi](https://go.dev/dl/go1.18.2.windows-arm64.msi)
+- [go1.18.3.windows-arm64.msi](https://go.dev/dl/go1.18.3.windows-arm64.msi)
 
 ## Groovy SDK
 
@@ -10,7 +10,7 @@
 
 ## Helm
 
-- [helm-v3.5.4-windows-amd64.zip](https://get.helm.sh/helm-v3.5.4-windows-amd64.zip)
+- [helm-v3.8.2-windows-amd64.zip](https://get.helm.sh/helm-v3.8.2-windows-amd64.zip)
 
 ## Maven
 
