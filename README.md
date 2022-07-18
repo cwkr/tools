@@ -2,7 +2,7 @@
 
 ## Golang SDK
 
-- [go1.18.3.windows-arm64.msi](https://go.dev/dl/go1.18.3.windows-arm64.msi)
+- [go1.18.4.windows-arm64.msi](https://go.dev/dl/go1.18.4.windows-amd64.msi)
 
 ## Groovy SDK
 
@@ -14,7 +14,7 @@
 
 ## Maven
 
-- [apache-maven-3.8.4-bin.zip](https://downloads.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.zip)
+- [apache-maven-3.8.6-bin.zip](https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip)
 
 ## OpenJDK
 
