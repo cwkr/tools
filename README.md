@@ -6,7 +6,7 @@
 
 ## Groovy SDK
 
-- [apache-groovy-sdk-3.0.9.zip](https://groovy.jfrog.io/artifactory/dist-release-local/groovy-zips/apache-groovy-sdk-3.0.9.zip)
+- [apache-groovy-sdk-4.0.3.zip](https://dlcdn.apache.org/groovy/4.0.3/distribution/apache-groovy-sdk-4.0.3.zip)
 
 ## Helm
 
