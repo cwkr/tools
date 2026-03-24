@@ -2,7 +2,7 @@
 
 ## Golang SDK
 
-- [go1.25.6.windows-amd64.msi](https://go.dev/dl/go1.25.6.windows-amd64.msi)
+- [go1.25.8.windows-amd64.msi](https://go.dev/dl/go1.25.8.windows-amd64.msi)
 
 ## OpenJDK
 
@@ -11,9 +11,8 @@
 
 ## PostgreSQL
 
-- [postgresql-17.7-2-windows-x64.exe](https://get.enterprisedb.com/postgresql/postgresql-17.7-2-windows-x64.exe)
+- [postgresql-17.9-2-windows-x64.exe](https://get.enterprisedb.com/postgresql/postgresql-17.9-2-windows-x64.exe)
 
 ## Python
 
-- [python-3.13.11-amd64.exe](https://www.python.org/ftp/python/3.13.11/python-3.13.11-amd64.exe)
-- [python-3.14.2-amd64.exe](https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe)
+- [python-3.13.12-amd64.exe](https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe)
